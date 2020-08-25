@@ -5,3 +5,11 @@ plugins {
 }
 
 android {
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.example.flipcoin"
+        minSdk 19
+        targetSdk 32
+        versionCode 1
+        versionName "1.0"
