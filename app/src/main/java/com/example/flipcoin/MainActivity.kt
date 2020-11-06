@@ -13,3 +13,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val flipButton: Button = findViewById(R.id.button)
+
+        flipButton.setOnClickListener {
+            flipCoin()
+        }
+}
+
+    private fun flipCoin() {
