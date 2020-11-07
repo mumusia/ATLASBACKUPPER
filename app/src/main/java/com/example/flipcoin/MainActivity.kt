@@ -20,3 +20,8 @@ class MainActivity : AppCompatActivity() {
 }
 
     private fun flipCoin() {
+        val coin = Coin()
+        val coinFlip = coin.flipCoin()
+        val imageCoin: ImageView =findViewById(R.id.imageView)
+
+        if (coinFlip == 1) {
