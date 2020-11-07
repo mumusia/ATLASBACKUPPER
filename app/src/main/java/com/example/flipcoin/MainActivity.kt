@@ -25,3 +25,12 @@ class MainActivity : AppCompatActivity() {
         val imageCoin: ImageView =findViewById(R.id.imageView)
 
         if (coinFlip == 1) {
+            imageCoin.setImageResource(R.drawable.heads)
+            imageCoin.contentDescription = coinFlip.toString()
+        }
+        else{
+            imageCoin.setImageResource(R.drawable.tails)
+            imageCoin.contentDescription = coinFlip.toString()
+        }
+
+    }
