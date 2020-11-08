@@ -34,3 +34,6 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
+class Coin {
+    fun flipCoin():Int{
