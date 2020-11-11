@@ -38,3 +38,6 @@ class MainActivity : AppCompatActivity() {
 class Coin {
     fun flipCoin():Int{
         return (1..2).random()
+    }
+
+}}
