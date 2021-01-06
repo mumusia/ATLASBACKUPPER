@@ -17,3 +17,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.41000003"
         tools:srcCompat="@drawable/heads" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
