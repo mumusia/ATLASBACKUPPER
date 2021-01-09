@@ -25,3 +25,7 @@
         android:text="@string/flip_button"
         android:textSize="22sp"
         android:textStyle="bold"
+        app:backgroundTint="#CA9D14"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
