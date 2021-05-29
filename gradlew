@@ -53,3 +53,9 @@ MAX_FD="maximum"
 warn () {
     echo "$*"
 }
+
+die () {
+    echo
+    echo "$*"
+    echo
+    exit 1
