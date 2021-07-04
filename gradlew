@@ -141,3 +141,5 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
         ROOTDIRS="$ROOTDIRS$SEP$dir"
         SEP="|"
     done
+    OURCYGPATTERN="(^($ROOTDIRS))"
+    # Add a user-defined pattern to the cygpath arguments
