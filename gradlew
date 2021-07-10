@@ -156,3 +156,6 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
             eval `echo args$i`=`cygpath --path --ignore --mixed "$arg"`
         else
             eval `echo args$i`="\"$arg\""
+        fi
+        i=`expr $i + 1`
+    done
