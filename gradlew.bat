@@ -1,2 +1,2 @@
 @rem
-@rem Co
+@rem Copyright 
