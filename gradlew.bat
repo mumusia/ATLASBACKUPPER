@@ -1,2 +1,2 @@
 @rem
-@rem Copyright 2015 the original au
+@rem Copyright 2015 the original author
