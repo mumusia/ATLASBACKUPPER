@@ -1,2 +1,2 @@
 @rem
-@rem Copyright 2015 the original author
+@rem Copyright 2015 the original author or 
