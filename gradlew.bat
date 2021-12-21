@@ -7,4 +7,4 @@
 @rem
 @rem      https://www.apache.org/licenses/LICENSE-2.0
 @rem
-@rem Unless required by applicabl
+@rem Unless required by applicable l
