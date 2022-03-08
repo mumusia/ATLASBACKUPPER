@@ -14,4 +14,4 @@
 @rem limitations under the License.
 @rem
 
-@if "%DEBUG%" ==
+@if "%DEBUG%" == "" @
