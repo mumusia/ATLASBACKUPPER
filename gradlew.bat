@@ -17,4 +17,4 @@
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
-@rem  Gradle startup sc
+@rem  Gradle startup scrip
