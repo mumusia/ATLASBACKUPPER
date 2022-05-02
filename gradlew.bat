@@ -21,4 +21,4 @@
 @rem
 @rem ##########################################################################
 
-@rem Set local scope fo
+@rem Set local scope for the
