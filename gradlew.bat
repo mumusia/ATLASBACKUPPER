@@ -21,4 +21,4 @@
 @rem
 @rem ##########################################################################
 
-@rem Set local scope for the vari
+@rem Set local scope for the variables
