@@ -21,4 +21,4 @@
 @rem
 @rem ##########################################################################
 
-@rem Set local scope for the variables
+@rem Set local scope for the variables with win
