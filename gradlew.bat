@@ -21,4 +21,5 @@
 @rem
 @rem ##########################################################################
 
-@rem Set local scope for the variables with windows NT s
+@rem Set local scope for the variables with windows NT shell
+i
