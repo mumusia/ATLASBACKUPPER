@@ -21,4 +21,4 @@
 @rem
 @rem ##########################################################################
 
-@rem Set local scope for the variables with windows N
+@rem Set local scope for the variables with windows NT s
