@@ -43,4 +43,4 @@ set JAVA_EXE=java.exe
 if "%ERRORLEVEL%" == "0" goto execute
 
 echo.
-echo ERROR: JAVA_HOME 
+echo ERROR: JAVA_HOME i
