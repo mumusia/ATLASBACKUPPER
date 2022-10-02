@@ -51,4 +51,4 @@ echo location of your Java installation.
 goto fail
 
 :findJavaFromJavaHome
-s
+set JAVA
