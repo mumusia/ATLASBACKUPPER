@@ -57,4 +57,4 @@ set JAVA_EXE=%JAVA_HOME%/bin/java.exe
 if exist "%JAVA_EXE%" goto execute
 
 echo.
-echo ERROR: JAVA
+echo ERROR: JAVA_HOM
