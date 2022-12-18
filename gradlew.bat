@@ -65,4 +65,4 @@ echo location of your Java installation.
 goto fail
 
 :execute
-@rem Setup t
+@rem Setup the co
