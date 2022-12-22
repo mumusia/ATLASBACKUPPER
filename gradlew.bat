@@ -66,3 +66,5 @@ goto fail
 
 :execute
 @rem Setup the command line
+
+set
