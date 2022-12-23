@@ -67,4 +67,4 @@ goto fail
 :execute
 @rem Setup the command line
 
-set CLAS
+set CLASSPATH
