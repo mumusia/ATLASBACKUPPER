@@ -67,4 +67,4 @@ goto fail
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\grad
+set CLASSPATH=%APP_HOME%\gradle
