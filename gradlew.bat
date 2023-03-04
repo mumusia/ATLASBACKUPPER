@@ -75,4 +75,4 @@ set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 
 :end
 @rem End local scope for the variables with windows NT shell
-if "%ERRORLEVEL%"=
+if "%ERRORLEVEL%"=="0" g
